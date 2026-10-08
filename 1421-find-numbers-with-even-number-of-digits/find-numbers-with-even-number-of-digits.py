@@ -1,5 +1,6 @@
 class Solution:
     def findNumbers(self, nums: list[int]) -> int:
+        # done by aritra
         total_nums = 0 
         for i in range(len(nums)):
             current_nums = nums[i]
